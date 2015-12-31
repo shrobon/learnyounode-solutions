@@ -1,0 +1,19 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "Practice Node programs ",
+  "main": "8.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrobon/learnyounode-solutions.git"
+  },
+  "author": "shrobon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrobon/learnyounode-solutions/issues"
+  },
+  "homepage": "https://github.com/shrobon/learnyounode-solutions#readme"
+}
